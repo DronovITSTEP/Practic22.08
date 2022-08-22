@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.4.0" />
     <PackageReference Include="Ninject" Version="3.3.6" />
   </ItemGroup>
 
